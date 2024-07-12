@@ -1,1 +1,9 @@
 llama-cpp-python
+llama_index
+llama-index-llms-huggingface
+llama-index-embeddings-huggingface
+llama-index-embeddings-huggingface-api
+python-dotenv
+ipykernel
+requests
+matplotlib
